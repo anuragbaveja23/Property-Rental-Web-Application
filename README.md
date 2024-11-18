@@ -1,4 +1,4 @@
-# Airbnb Clone
+# Property Rental Web Application
 
 ## Overview
 
