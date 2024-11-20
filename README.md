@@ -5,17 +5,6 @@
 This project is a full-stack web application developed as a clone of Airbnb using the MERN stack (MongoDB, Express.js, React.js, Node.js). It aims to replicate the core functionality of Airbnb, allowing users to search for accommodations, view details, make bookings, and manage their listings.
 
 
-
-4. **Run project:**
-   - Open terminal, navigate to client directory and run below command to start frontend
-   ```
-       yarn run dev
-   ```
-   - Open another terminal, navigate to api directory and run this command to start backend server
-   ```
-       yarn start
-   ```
-
 ## Features
 
 - **User Authentication:** Users can sign up, log in, and log out securely. Passwords are hashed for security.
